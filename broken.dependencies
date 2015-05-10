@@ -19,9 +19,9 @@
     },
     {
         "remote": "github",
-        "repository": "blkredstarV/BlkStarKernel",
+        "repository": "deadman96385/Deathly_Kernel_D2",
         "target_path": "kernel/samsung/d2",
-        "branch": "lp5.1"
+        "branch": "5.1"
     },
     {
         "remote": "github",
